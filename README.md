@@ -1,6 +1,6 @@
 # Nice to meet you, this is Jie Wang.
 Student at the University of Manchester and my research interests are 3D models and medical image segmentation.  
-Right now I'm working on a secret corporate project involving deep learning and medical applications.
+Right now I'm working on corporate project involving deep learning and medical applications.
 
 "The local optimal solution does not necessarily reach the global optimal solution step by step."
 
