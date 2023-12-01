@@ -1,6 +1,6 @@
 # Nice to meet you, this is Jie Wang.
-Student at the University of Manchester and my research interests are 3D models, medical image segmentation and meta-learning.  
-Right now I'm working on corporate project involving deep learning and the research of meta-learning and foundation models.
+Student at the University of Manchester and my research interests are 3D models, medical large models.  
+Right now I'm working on corporate project involving deep learning and the research of large models.
 
 As a product manager and algorithm engineer right now and main field is the medical image.
 
