@@ -1,4 +1,4 @@
-# Nice to meet you, this is Jie Wang.
+# Nice to meet you, this is Jie.
 <!-- From University of Manchester and my research interests are 3D models, medical large models.  
 Right now I'm working on corporate projects involving deep learning and the research of large models.
 
