@@ -6,6 +6,4 @@ As a algorithm engineer and product manager right now and main field is the medi
 
 "The local optimal solution does not necessarily reach the global optimal solution stepwise."
 
-"Only hard working is useless and effortless."
-
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=CorleoneJW)]()
